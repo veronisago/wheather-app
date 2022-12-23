@@ -1,0 +1,15 @@
+.navBar{
+    display: flex;
+    width: 100%;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.navBarSections{
+    display: flex;
+
+}
+
+.navBarSections h4{
+    margin-inline: 30px;
+}
